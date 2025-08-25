@@ -1,0 +1,29 @@
+{
+  "users" [
+    {
+      "name": "annu",
+      "id": 1,
+      "mark": 55
+    },
+    {
+      "name": "Ammu",
+      "id": 2,
+      "mark": 56
+    },
+    {
+      "name": "Anju",
+      "id": 3,
+      "mark": 57
+    },
+    {
+      "name": "Rahul",
+      "id": 4,
+      "mark": 78
+    },
+    {
+      "name": "manu",
+      "id": 5,
+      "mark": 66
+    }
+  ]
+}
